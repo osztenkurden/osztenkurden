@@ -1,4 +1,4 @@
-# Hubert Walczak
+# H. Walczak
 
 I build TypeScript libraries, Counter-Strike tools, and the occasional project that gets a little out of hand.
 
