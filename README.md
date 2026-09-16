@@ -15,7 +15,7 @@ A lot of my work starts with game data: parsing demos, making sense of live matc
 
 ## Broadcast Tools
 
-I contribute to [CS2 React HUD](https://github.com/lexogrine/cs2-react-hud), an open-source spectator overlay for [LHM.gg / Lexogrine HUD Manager](https://github.com/lexogrine/hud-manager). It's where game data meets the screen: radar, player information, and custom broadcast interfaces.
+I've contribute to [LHM.gg / Lexogrine HUD Manager](https://github.com/lexogrine/hud-manager). It's where game data meets the screen: radar, player information, and custom broadcast interfaces.
 
 ## Side Quests
 
