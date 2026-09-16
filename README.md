@@ -15,7 +15,7 @@ A lot of my work starts with game data: parsing demos, making sense of live matc
 
 ## Broadcast Tools
 
-I've contribute to [LHM.gg / Lexogrine HUD Manager](https://github.com/lexogrine/hud-manager). It's where game data meets the screen: radar, player information, and custom broadcast interfaces.
+I've contributed to [LHM.gg / Lexogrine HUD Manager](https://github.com/lexogrine/hud-manager). It's where game data meets the screen: radar, player information, and custom broadcast interfaces.
 
 ## Side Quests
 
