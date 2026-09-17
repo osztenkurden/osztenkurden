@@ -9,7 +9,7 @@ A lot of my work starts with game data: parsing demos, making sense of live matc
 | Project | What it does |
 | --- | --- |
 | [cs2parser](https://github.com/osztenkurden/cs2parser) | Parses Counter-Strike 2 demos and live GOTV broadcasts, with typed access to players, entities, and game events. Runs in Node.js, Bun, and browsers. |
-| [bzip2-codec](https://github.com/osztenkurden/bzip2-codec) | Dependency-free bzip2 compression and decompression for JavaScript, with Web Streams and optional WebAssembly decoding. |
+| [bzip2-codec](https://github.com/osztenkurden/bzip2-codec) | Dependency-free bzip2 compression and decompression for JavaScript, with Web Streams and WebAssembly. |
 | [csgogsi](https://github.com/osztenkurden/csgogsi) | Turns CS2 and CS:GO Game State Integration data into structured match state and typed gameplay events. |
 | [steam-game-path](https://github.com/osztenkurden/steam-game-path) | Finds and lists installed Steam games across libraries on Windows, macOS, and Linux, with no runtime dependencies. |
 
